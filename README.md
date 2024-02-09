@@ -1,5 +1,5 @@
 - 👋 Hi, I’m I Putu Deswara Shandika Prastyawan
-- 👀 I’m interested in Tech Stuff
+- 👀 I’m interested in Tech, and Games
 - 🌱 I was born at 10th December 2004 in Tabanan
 - 📫 How to reach me : @deswara._ on Instagram, and deswara@student.undiksha.ac.id
 
