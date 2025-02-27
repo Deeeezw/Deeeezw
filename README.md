@@ -1,6 +1,6 @@
 - 👋 Hi, I’m I Putu Deswara Shandika Prastyawan
-- 👀 I’m interested in Tech and Games
-- 🌱 I was born at 10th December 2004 in Tabanan
+- 👀 I’m currently studying at Universitas Pendidikan Ganesha
+- 🌱 I was born at 10th December 2004 in Tabanan, Bali.
 - 📫 How to reach me : @deswara._ on Instagram, and deswara@student.undiksha.ac.id
 
 <!---
