@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm I Putu Deswara Shandika Prastyawan</h1>
 
 <p align="center">
-  Informatics Education Student | Mobile & Web Development Enthusiast | Digital Creator
+  Informatics Education Student | Mobile Developer 
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ## About Me
 
-I am an Informatics Education student at Universitas Pendidikan Ganesha with an interest in software development, mobile application development, web development, and digital learning technology.
+I am an Informatics Education student at Universitas Pendidikan Ganesha with an interest in software development, mobile application development, and digital learning technology.
 
 I enjoy building applications that combine practical functionality with clean user experience. My current learning focus is on Flutter, Firebase, frontend development, backend concepts, and educational technology.
 
@@ -34,7 +34,6 @@ I am also interested in exploring how technology can be used to improve learning
 - Learning Firebase integration for authentication, database, and user management
 - Exploring UI/UX design for educational applications
 - Building projects related to language learning and digital education
-- Improving my skills in full-stack development
 
 ---
 
@@ -66,16 +65,6 @@ I am also interested in exploring how technology can be used to improve learning
 </p>
 
 ---
-
-## Featured Project
-
-### Quiro - UKBI Learning App
-
-Quiro is a Flutter-based mobile learning application designed to help users practice Bahasa Indonesia proficiency through interactive quiz-based learning.
-
-The app includes authentication, quiz flow, profile statistics, progress tracking, and multiplayer-related features.
-
-Repository: [UKBI2](https://github.com/Deeeezw/UKBI2)
 
 ---
 
